@@ -11,4 +11,4 @@ python 3.7.16
         --slide_path=='slide_path' 
         --model_path=='default: models/FPNrcnn.pth'
 ```
-检测结果存放在save_folder中.
+You will see results in 'save_folder'.
